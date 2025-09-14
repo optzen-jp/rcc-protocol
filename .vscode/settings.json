@@ -1,0 +1,12 @@
+{
+    "editor.wordWrap": "on",
+    "files.trimTrailingWhitespace": true,
+  
+    // Markdown All in One
+    "markdown.extension.toc.updateOnSave": true,
+    "markdown.extension.toc.levels": "2..6",
+  
+    // 改行1行で<br>にしたいなら（好み）
+    "markdown.preview.breaks": false
+  }
+  
