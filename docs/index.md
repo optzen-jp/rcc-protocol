@@ -40,7 +40,7 @@ description: ChatGPTとの対話における収束現象（R0/CC-1/CC-2/RCC）�
 
 ## 公開実験ログ
 
-- [R0（0遅延復帰）の観測と再現](./experiments/r0-observation.md)
+- [R0（0遅延復帰）の観測と再現](./experiments/2025-08-26_r0_attempt_izakaya.md)
 
 > 実験ログは、**前提 → 手順 → 観測 → 指標での評価 → 限界**の順で記述します。  
 > 個人情報や企業情報は**匿名化／秘匿**してください。
